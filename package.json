@@ -1,0 +1,22 @@
+{
+  "name": "node-chatroom",
+  "version": "1.0.0",
+  "description": "nodejs聊天室实例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideagay/node-chatroom.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "hyb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ideagay/node-chatroom/issues"
+  },
+  "homepage": "https://github.com/ideagay/node-chatroom#readme"
+}
