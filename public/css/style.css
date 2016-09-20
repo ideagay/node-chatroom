@@ -1,0 +1,47 @@
+.content{
+    width: 900px;
+    margin: 20px auto;
+}
+.clear{
+    clear: both;
+}
+.message{
+    float: left;
+    width: 780px;
+    height: 300px;
+    overflow-y:scroll;
+    border: 1px solid #ececec;
+    margin-bottom: 20px;
+}
+.room-name{
+    padding: 10px 0;
+}
+.room-name .name{
+    color: #3291ff;
+}
+.color1{
+    color: orange;
+}
+.message div{
+    border-bottom: 1px dashed #ececec;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+.room-list{
+    width: 100px;
+    float: right;
+}
+.room-list div{
+    border-bottom: 1px solid #ececec;
+}
+#send-message{
+    width: 700px;
+    height: 34px;
+    line-height: 34px;
+}
+#send-btn{
+    width: 60px;
+    margin-left: 20px;
+    height: 34px;
+    line-height: 34px;
+}
